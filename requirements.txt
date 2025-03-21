@@ -33,8 +33,8 @@ yt-dlp
 https://github.com/New-dev0/Telethon/archive/platy.zip
 python-decouple
 python-dotenv
-py-Ayra==2.1.6
-pytgcalls==3.0.0.dev24
+py-Ayra
+py-tgcalls
 emoji
 gpytranslate
 Markdown
